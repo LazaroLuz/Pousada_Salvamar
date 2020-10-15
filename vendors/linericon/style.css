@@ -382,12 +382,12 @@
 .lnr-chevron-right:before {
   content: "\e876";
 }
-.lnr-arrow-up:before {
+/*.lnr-arrow-up:before {
   content: "\e877";
 }
 .lnr-arrow-down:before {
   content: "\e878";
-}
+}*/
 .lnr-arrow-left:before {
   content: "\e879";
 }
