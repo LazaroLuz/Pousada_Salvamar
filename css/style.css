@@ -2931,7 +2931,7 @@ h6 {
 /*----------------------------------------------------*/
 .footer-area {
   min-height: 100%;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(../img/footer-bg.jpg) no-repeat center;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(../img/galeria/Rodapé.jpg) no-repeat center;
   background-size: cover; }
   .footer-area h6 {
     color: #fff;
