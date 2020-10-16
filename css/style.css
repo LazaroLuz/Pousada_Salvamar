@@ -2753,6 +2753,7 @@ h6 {
     -o-transform: translateY(-50%);
     transform: translateY(-50%); }
 
+
 /* End About Area css
 ============================================================================================ */
 /* Our Room Area css
@@ -2905,7 +2906,7 @@ h6 {
   margin-bottom: 30px;
   position: relative; }
   .gallery_area .single-gallery .overlay {
-    transition: all 300ms linear 0s; }
+    transition: all 200ms linear 0s; }
   .gallery_area .single-gallery .icon {
     position: absolute;
     top: 0;
@@ -2916,7 +2917,7 @@ h6 {
     -o-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     opacity: 0;
-    transition: all 300ms linear 0s;
+    transition: all 200ms linear 0s;
     z-index: 10;
     cursor: pointer; }
   
@@ -2925,18 +2926,8 @@ h6 {
   .gallery_area .single-gallery:hover .icon {
     top: 50%;
     opacity: 1; }
-  .gallery_area .single-gallery .popup-galeria {
-    position: absolute;
-    left: 0;
-    text-align: center;
-    width: 100%;
-    top: 50%;
-    -webkit-transform: translateY(-50%);
-    -moz-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    -o-transform: translateY(-50%);
-    transform: translateY(-50%); }
   
+
 /* End Gallery Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
